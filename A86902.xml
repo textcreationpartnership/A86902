@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon gathered and set forth by that divine spirit which God hath given to me James Hunt, and dedicated to all those which do love God and the truth.</title>
+            <author>Hunt, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86902</idno>
+            <idno type="STC">Wing H3735</idno>
+            <idno type="STC">Thomason E448_14</idno>
+            <idno type="EEBO-CITATION">99864429</idno>
+            <idno type="PROQUEST">99864429</idno>
+            <idno type="VID">161834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161834)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon gathered and set forth by that divine spirit which God hath given to me James Hunt, and dedicated to all those which do love God and the truth.</title>
+                  <author>Hunt, James, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:161834:1" rendition="simple:additions"/>
+            <head>A SERMON GATHERED And ſet forth by that Divine Spirit which God hath given to me <hi>JAMES H<g ref="char:V">Ʋ</g>NT,</hi> AND Dedicated to all thoſe which do love God and the Truth.</head>
+            <p>JT is written in the 3. Chapter of <hi>Iohn</hi> and the 3. verſ. <hi>Ieſus Chriſt who is the powerfull God of Heaven and of earth, he doth tell you plainly, except a man be borne a<g ref="char:EOLhyphen"/>gain he cannot ſee the Kingdom of God; for that which is borne of the fleſh, is fleſhly, and that which is borne of the ſpirit, is ſpirit,</hi> verſ. the 6. and now my new birth which God hath wrought in me, I hope the ſame will be a plain pa<g ref="char:EOLhyphen"/>terne for all thoſe which ſhall read my book, or heare it, read; for I acknowledge, that firſt I was the Sonne of man bearing the Image of the earthly, but by the Divine power and glory of the word of God, which is made manifeſt in the New Teſtament; I am made the Sonne of God,
+<pb n="2" facs="tcp:161834:2"/>and b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are the Image of the heavenly, for the Image of God is the ſoule, which is the inw<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> man, which is juſtified and glorified by the Divine power and glory of the word of God, for whom God doth call, them he doth juſtifie and whom he doth juſtifie, them he doth glo<g ref="char:EOLhyphen"/>rifie. <hi>Romans</hi> 8. Chapter and the 30. verſ. Again, St. <hi>Paul</hi> doth tell you plainly, in the 2. Epiſtle to the <hi>Corinthians,</hi> the 3. Chap<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and the 18. verſ. <hi>We all with open face behol<g ref="char:EOLhyphen"/>ding as in a glaſſe, the glory of the Lord, are changed into the Image of God from glory to glory, by the divine power and ſpirit of the Lord:</hi> now if the Apoſtle ſhould have ſaid, <hi>we ſhall be changed,</hi> that would have ſignified, <hi>in the world to come;</hi> but its ſaith plainly, <hi>we are changed,</hi> which doth plainly ſignifie, here in this world; it is plainly written in the firſt Epiſtle of <hi>Peter,</hi> the 1. Chapter and the 23 verſ. Being born again not with corruptible ſeed, but by the word of God which liveth and abideth for ever, and this is the word which by the Goſpel is preached unto you, verſ. 15. And it is plainly written in the 1. Epiſtle to the <hi>Corinthians,</hi> the 6. Chapter and the 17. verſ. <hi>He that is joyned to the Lord, is one ſpirit;</hi> and now I ſhall make it plainly appeare, Gods true Preacher, he is both man and woman in ſignification of Scripture; for Saint <hi>Paul</hi> doth tell you plainly in the 1. Epiſtle to the <hi>Corinthians</hi> the 4. Chapter and the 15. verſ. Though you have ten Thouſand Inſtructers, yet you have not many Fa<g ref="char:EOLhyphen"/>thers; for in Chriſt Jeſus I have begotten you through the Goſpel, and for to beget doth ſignifie a man: Again in the 4. Chapter to the <hi>Gallathians,</hi> there he ſaith, <hi>my little Chil<g ref="char:EOLhyphen"/>dren in whom I travell in Birth, untill Chriſt be formed in you,</hi> and to travell in birth doth ſignifie, a <hi>woman,</hi> for as every naturall Child, hath a Father and Mother of the fleſh, ſo on the other ſide, God is the Father and Mother of the ſpirits, I ſay again, of the ſpirits of all thoſe people which are and ſhall be reconciled to Jeſus Chriſt, and to the Miniſtration of the New Teſtament, which is our glorious Goſpel of love and peace, it is plainly written in the 1. Chapter of <hi>James. Every good and perfect guift is from above, and com<g ref="char:EOLhyphen"/>meth
+<pb n="3" facs="tcp:161834:2"/>down from the Father of lights; and if his free will we are begotten by the word of truth, for Chriſt is the Word and the Truth;</hi> for it is plainly written in the 1. Chapter of <hi>Iohn</hi> and the 14. verſ. <hi>The Word was made fleſh and dwelt amongſt us,</hi> and thus I have proved in briefe, <hi>Chriſt is the Word, and Chriſt is God:</hi> And Gods Word doth tell you plainly, in the 4. Chapter to the <hi>Gallathians,</hi> and the 26. verſ. <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi> which is above is free, which is the Mother of us al<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but of what all, I ſay of all thoſe which are and ſhall be borne again by the Divine power and glory of the Word of God, and by Gods helpe, I have made it plainly appeare, Gods true Preacher, he is both man and woman in ſignification of Scripture; for now I ſay again, Chriſt is the Word, and Chriſt is God, and he that is joyned to God is one ſpirit, and a man is begotten and born again by the Divine power of the Word of God, and now by Gods help, I will boldly ſay, as it is written in the 2. Chapter of <hi>Peter,</hi> and the 2 v. <hi>Even as new born babes deſire the ſinſere milk of the word that ye may grow thereby;</hi> and now I ſay again, that ye may all grow thereby in heavenly wiſdom, untill you come into the unity of the faith, and of the knowledge of the Sonne of God unto a perfect man, even to the meaſure, and ſtatute of the falneſſe of Chriſt, as you may read in the 4. Chapter to the <hi>Epheſians;</hi> but yee Clergy and ſome of yee great men of the world, which have been bread up in the latin Schoole, you ſay a man can come to no true perfection here in this world; but I ſhall plainly prove, you are all deceived in your judgement, for it is plainly written in the ſame Chapter, Je<g ref="char:EOLhyphen"/>ſus Chriſt, he aſcended up on high, and gave guilts unto men, ſome Apoſtles, and Prophets, and Teachers, for the work of the Miniſtery, and for the perfecting of the Saints: And now ye Clergy, you ſay you are Gods Miniſters; but now I ſay, are not you aſhamed for to judge your ſelves for to be ſuch poore dunſes that you are not able for to teach the people for to grow up into no hight of heavenly perfe<g ref="char:EOLhyphen"/>ction; but now ye deluding Clergy, by the power of God I ſhall make you ſee and underſtand, God hath made me a perfect man; for Gods word doth tell you in the 10. Chap<g ref="char:EOLhyphen"/>ter
+<pb n="4" facs="tcp:161834:3"/>to the <hi>Hebrews,</hi> and the 14. verſ. by one offering, Chriſt hath perfected for ever them that are ſanctified; but how, and by what means are we ſanctified, I ſay by the true light and glory of Gods Word; for it is plainly written in the 17. Chapter of <hi>Iohn</hi> and the 17. verſ. Chriſt ſaith, ſanctifie them <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrough the truth, thy Word is truth, for Chriſt is the word and the truth, and Chriſt doth tell you plainly, the glory which God his Father gave unto him, he doth give to his Saints, that they may be all one in us, that the world may believe that thou haſt ſent me; now here in this Chapter, I have proved that for all true believers, we are joyned to God the Father and to God the Sonne, and now ye Clergy, I pray what ſay you, am not I come to true and ſound per<g ref="char:EOLhyphen"/>fection, and do you not know a handfull of Wheate is as perfect Wheate as a whole Buſhel; for it is of the ſame ſub<g ref="char:EOLhyphen"/>ſtance, though it be not ſo great in ſubſtance, and I hope ye all know a naturall Child as ſoone as it is born, it hath the perfect ſhape and Image of a man; but he doth grow by degrees in ſtature and tallneſſe, untill he come unto the fu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l age and ſtature and taleneſſe of a man: even ſo, in like manner, as ſoone as a man is truely ſanctified by the devine power of the word of God, he is a new borne babe in Chriſt, but then he doth grow up in glory by degrees, until he become to be a perfect man in Chriſt Jeſus, even to the meaſure and ſtature of the fulneſſe of Chriſt, which is a<g ref="char:EOLhyphen"/>greeable unto that portion of Scripture which I have a<g ref="char:EOLhyphen"/>fore mentioned; and now I ſay againe, which is agreeable unto the devine power and glory of my new birth, which God my Father, and Jeſus Chriſt hath wrought in me.</p>
+            <p>And now by Gods helpe, I will boldly ſay, with Saint <hi>Paul,</hi> as it is written in the 2. Epiſtle to the <hi>Corinthians</hi> the 4. Chapter. and the 6. verſ. <hi>God who commanded the light to ſhine out of darkeneſſe hath ſhined in our hearts for to give the light of the knowledge of the glory of God, in the face of Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi> And now I ſay again, Which knowledge doth ſhine in me ſo cleare that I doe behold Gods glorious face, not with my bodily eyes, which are temporall, but with my ſpirituall eyes which are heavenly and eternall. And
+<pb n="5" facs="tcp:161834:3"/>now ye learned Schollers which have been bred up in th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Greek and Latin<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Schoole, I muſt tell you plainely, if you can be able for to proove, that there is no true God, nor no true Goſpell, why then you may prove, that a man can come to no true perfection here in this world, But now ye deluding <hi>Synod,</hi> from your Antichriſt<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n ſtoole, I pray ſtand up and ariſe: For by the true light and glory of my new birth. I ſhall ſet open your eyes, for Chriſt doth tell you plainly, <hi>Except a man be borne againe, he cannot ſee the Kingdome of God,</hi> and now ye Lords Knights, and Burge<g ref="char:EOLhyphen"/>ſes in Parliament, I muſt tell you plainly, and boldly, by the true light and glory of my New birth, God hath made me able to ſhew you the true light and glory of the King<g ref="char:EOLhyphen"/>dom of God; For it is plainely written in the firſt Chap<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to the <hi>Coloſſ.</hi> and the 12. and 13. verſ. <hi>God our Father he hath tranſlated us into the Kingdome of his dear Sonne; but how are we tranſlated into the Kingdom of Jeſus Chriſt;</hi> I ſay by the true light and glory of his word, for Chriſt hath a Church heere on earth, which is viſible and inviſible; the viſible Church doth ſignifie all thoſe people which are, and ſhall be reconciled to Chriſt, and to the miniſtration of the new Teſtament, which is the booke of life; the inviſi<g ref="char:EOLhyphen"/>ble Church, that is the ſoules of the people, which is to be diſcerned by the eye of Faith, for Jeſus Chriſt hath a glo<g ref="char:EOLhyphen"/>rious Church in himſelfe, for God our glorious Father he gave us his Son for to be head over all things to the Church which is his body, as you may reade in the firſt Chapter to the <hi>Epheſians,</hi> and the 22. verſe, and now ye High Court of Parliament, I pray marke this point of Scripture, for the Apoſtle doth call the true Church the body of Chriſt: for as a temporall tree hath many bowes and branches, and all make but one tree; even ſo in like manner, for all thoſe that will be reconciled to Chriſt, and to the obedience of his Word, your ſoules which is the inward man ſhall be ingrafted in to the Myſticall body of Chriſt, although we be thouſand in number, and now ye deluding Synod, I underſtand there is many opinions amongſt you about Religion, but now I ſhall make to plainely appeare, there
+<pb n="6" facs="tcp:161834:4"/>is but two ſots of people heere in this world; for all thoſe that are not in Chriſt, they are out of Chriſt, and all thoſe that are out of Chriſt, they are yet under the bondage of the Devill; and Gods Word doth tell you plainely in the 5. Chapter and the 17. verſ. of the 2. Epiſtle to the <hi>Corin<g ref="char:EOLhyphen"/>thians, If any man be in Chriſt, he is a new creature;</hi> now this word <hi>any man</hi> doth ſignifie any man which is here on earth: let him be rich of poore, if he be in Chriſt, he is a new creature, and for to be a new creature is to be recon<g ref="char:EOLhyphen"/>ciled to Chriſt, and to the miniſtration of the New teſta<g ref="char:EOLhyphen"/>ment, and with all thoſe that are new man in Chriſt, old things are paſt away and behold all things are become new, <hi>verſ.</hi> 17. For as Circumciſion, and the blood or Bulls and Goats, and thoſe Ordinances which you may reade at large in the 9. Chapter to the <hi>Hebrews,</hi> did belong to the old Law and Teſtament, which Chriſt hath aboliſhed by his ſuffering on the Croſſe; Now on the other ſide, <hi>Baptiſme, and the Bread and Wine,</hi> they are thoſe Ordinances which doth belong to the Myſticall body of Chriſt, and to the miniſtration of the New Teſtament, which ſhall ſtand and abide for ever. And now ye high Court of Par<g ref="char:EOLhyphen"/>liament, it is plainely reported, you doe intend to ſet forth and order, that there muſt be Elders in every Pariſh, and the Elders and Clergy they muſt examine the people before they come to receive the Sacrament of <hi>Bread and Wine,</hi> but now, I hope, you ſhall plainely underſtand, God hath made me a preaching Elder for to try and prove the Clergy; for now yee Clergy, I muſt tell you plainely, no man hath any right in the ſight of God, for to bee partakers of the holy Communion of Bread and Wine, but thoſe that will bee reconciled to Chriſt, and to the miniſtration of the New Teſtament, whereunto the Sacrament of Bread and Wine doth belong, for Chriſt doth tell you plainly in the 22. Chap. of <hi>Luke, This cup is the New Teſtament in my blood, which is ſhed for you;</hi> and now by Gods helpe, I will ſhew you in brief what a great error the Clergie are in, for every Lords day they read a Chapter in the old Law and Teſta<g ref="char:EOLhyphen"/>ment, and another in the New, and when they are up in
+<pb n="7" facs="tcp:161834:4"/>their Pulpits, in their Doctrine they joyne the old Law and Teſtament, and the New together, as if they were both as one, and in ſo doing, they have moſt ſhamefully blinded, and deceived all thoſe people which are as yet held under their power. For now I ſay plainly and boldly, if there be any one of ye Clergy or any other man that can finde any one place of Scripture in the New Teſtament, for to prove that the old Law and Teſtament is allowed of God for to be joyned to the myſticall body of Chriſt, which I have plainly proved for to be the true and glorious Chu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, if I cannot finde five other plaine and cleare truths of Scripture, for to prove that you are utterly deceived in your judgement, why then I will be content to be put to death, under the judgement of ye Lords, Knights, and Burgeſſes to Parlia<g ref="char:EOLhyphen"/>ment, which are gathered togeather, for the tryall of the Spirits. And new ye Synod, you ſay old Ceremonies they muſt be laid aſide: and now I ſay, I pray forſake your Tenthes and Tythes, for you ſhall be ſ<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>undly tried. For Gods Word doth tell you plainly in the 7. Chapter to the <hi>Hebrews,</hi> and the 5. <hi>verſe, The Sonnes of Levi they had a commandement to receive tithes of the people, according to the Law.</hi> And now yee learned Synod, I hope you know the <hi>Leviticall Prieſthood</hi> was in force in the time of the old Law, for the 11. <hi>ver.</hi> doth tell you, <hi>
+                  <g ref="char:V">Ʋ</g>nd<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r the Leviticall Prieſthood the people received the Law,</hi> but the 12. <hi>verſe</hi> will tell you palinely, <hi>The Prieſthood being changed, there is made of neceſſity a change alſo of the Law,</hi> for Chriſt hath quite aboliſhed the old Law by his ſuff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring on the Croſſe, and yee Synod and Clergy, I muſt tell you plainely, your Tenths and Tithes ſhall vaniſh away with the olde Law; And now yee high Court of Parliament, I pray remem<g ref="char:EOLhyphen"/>ber that you have made open profeſſion unto all the world that you have a deſire for to pull downe the Kingdome of Antichriſt, but by you power, you force the people for to pay Tenths and tithes to the Clergy, and in ſo doing you doe very powerfully uphold the Kingdome of Antichriſt. For now I muſt tell you plainely, and boldly, Tenths and Tithes doth not belong to the glorious Prieſthood of our
+<pb n="8" facs="tcp:161834:5"/>and Saviour Jeſus Chriſt. But then ſome man may ſay, what meanes ſhall the Clergy have for to live upon? My anſwer is, for all thoſe that ſhall be found to be true prea<g ref="char:EOLhyphen"/>chers, for to ſhew the people by what meanes they may grow up in heavenly perfection untill they come to bee perfect men in Chriſt; there ſhall be money gathered for you, which ſhall be ſufficient for to maintaine you with meat, drinke, and apparell, and the holy Apoſtles of Chriſt they were well content with thoſe things, and ſo I hope will ye Clergy: for your coveting after Tenths and Tithes, the ſame doth ſtrongly blind your eyes.</p>
+            <p>And now yee Magiſtrates and Church wardens, I pray take not that thing in hand:</p>
+            <l>For to fight againſt the power of God,</l>
+            <l>which you are not able to withſtand.</l>
+            <l>For God hath made me a powerfull inſtrument,</l>
+            <l> as you ſhall know and finde,</l>
+            <l>For to open the peoples eyes,</l>
+            <l> whom the Clergy hath kept blind.</l>
+            <p>But ſome of you doe ſay, I ſhall preach in the Church, and you will be well content, if I can get authority from the high Court of Parliament: but by the power of God you and the high Court of Parliament ſhall ſee and under<g ref="char:EOLhyphen"/>ſtand, Gods authority doth farre exceed the authority of of any mortall man; for it is not in the Parliaments power for to make a man a Preacher, for they ſhall finde, God hath made me able for to be their teacher: for to ſhew them, and you, the plaine and perfect way, how true peace and ſound religion you may quietly enjoy. For theſe things God hath made me for to behold with my ſpiritall eye, for which I honour my King, and worſhip the holy and powerfull Tirnity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
